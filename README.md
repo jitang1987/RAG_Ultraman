@@ -36,7 +36,7 @@ l 模型选择： 项目选择的模型为`phi-3-small-128k-instruct`。理由�
 
 1. 文本知识库的构建
    - 建立了一系列关于奥特曼知识的txt文档。如下图
-   - ![RAG_data](G:\My Drive\UoA\02.PhD Study\00.Document\01.Study\10.NVIDIA Summer Camp\RAG_data.png)
+   - ![RAG_data](https://github.com/jitang1987/RAG_Ultraman/blob/main/RAG_data.png)
 
 2. 读取文本数据：
    - 在 `data_folder` 中存放的所有 `.txt` 文件会被逐一读取。
@@ -231,7 +231,7 @@ l 应用场景展示： 非常适合部署在资源有限的边缘设备上，�
 
 l 功能演示： 列出并展示实现的主要功能，附上UI页面截图，直观展示项目成果。
 
-![RAG_奥特曼](G:\My Drive\UoA\02.PhD Study\00.Document\01.Study\10.NVIDIA Summer Camp\RAG_奥特曼.png)
+![RAG_奥特曼](https://github.com/jitang1987/RAG_Ultraman/blob/main/RAG_%E5%A5%A5%E7%89%B9%E6%9B%BC.png)
 
 1. **语音识别 (Speech-to-Text)**
    - 功能描述：用户可以通过录制或上传语音文件，系统会自动识别语音内容并将其转换为文本，显示在界面上。
