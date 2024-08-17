@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 import whisper
 
 # Step 1: Initialize API key
-nvapi_key = "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"
+nvapi_key = "your_nvidia_api_key"
 os.environ["NVIDIA_API_KEY"] = nvapi_key
 
 # Step 2: Initialize the LLM and embedding models
